@@ -5,8 +5,6 @@ VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FaceDetection", "FaceDetection\FaceDetection.csproj", "{DD3F5623-897A-48D4-AD38-189FBE003BAF}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FaceRecognitionTraining", "FaceRecognitionTraining\FaceRecognitionTraining.csproj", "{69168314-D2C8-4859-9014-565D0768CF45}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FaceDetectionTraining", "FaceDetectionTraining\FaceDetectionTraining.csproj", "{2BF6101C-1541-45C8-90DF-CBBEA86A3737}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaceDetectorCNNTraining", "FaceDetectorCNNTraining\FaceDetectorCNNTraining.csproj", "{BA6CE8B1-7FBA-4E83-8DA9-D7C48F89AD8D}"
