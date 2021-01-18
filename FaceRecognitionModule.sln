@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FaceDetection", "FaceDetection\FaceDetection.csproj", "{DD3F5623-897A-48D4-AD38-189FBE003BAF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FaceRecognitionTraining", "FaceRecognitionTraining\FaceRecognitionTraining.csproj", "{69168314-D2C8-4859-9014-565D0768CF45}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FaceDetectionTraining", "FaceDetectionTraining\FaceDetectionTraining.csproj", "{2BF6101C-1541-45C8-90DF-CBBEA86A3737}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaceDetectorCNNTraining", "FaceDetectorCNNTraining\FaceDetectorCNNTraining.csproj", "{BA6CE8B1-7FBA-4E83-8DA9-D7C48F89AD8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD3F5623-897A-48D4-AD38-189FBE003BAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD3F5623-897A-48D4-AD38-189FBE003BAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD3F5623-897A-48D4-AD38-189FBE003BAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD3F5623-897A-48D4-AD38-189FBE003BAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69168314-D2C8-4859-9014-565D0768CF45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69168314-D2C8-4859-9014-565D0768CF45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69168314-D2C8-4859-9014-565D0768CF45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69168314-D2C8-4859-9014-565D0768CF45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BF6101C-1541-45C8-90DF-CBBEA86A3737}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BF6101C-1541-45C8-90DF-CBBEA86A3737}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BF6101C-1541-45C8-90DF-CBBEA86A3737}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BF6101C-1541-45C8-90DF-CBBEA86A3737}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA6CE8B1-7FBA-4E83-8DA9-D7C48F89AD8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA6CE8B1-7FBA-4E83-8DA9-D7C48F89AD8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA6CE8B1-7FBA-4E83-8DA9-D7C48F89AD8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA6CE8B1-7FBA-4E83-8DA9-D7C48F89AD8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAA8A46E-F71C-41BB-AFD4-4A2BA6FD1145}
+	EndGlobalSection
+EndGlobal
